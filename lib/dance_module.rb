@@ -22,3 +22,7 @@ module Dance
 
 
 end
+
+
+
+#if we delete the dance_module, will it still be good, because we are still joining eveything towards the FancyDance.rb
